@@ -17,7 +17,7 @@ const HeroSection = () => {
             your NTFs and sell them
           </p>
 
-          <Button btnName="Start your search" />
+          <Button btnName="Start your search" handleClick={() => {}} />
         </div>
         <div className={Style.heroSection_box_right}>
           <Image
