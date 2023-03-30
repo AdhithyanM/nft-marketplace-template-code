@@ -8,6 +8,7 @@ import {
   BigNFTSlider,
   Subscribe,
   Title,
+  Category,
 } from "../components/components-index";
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
         heading="Browse by Category"
         paragraph="Explore the NFTs in the most featured categories."
       />
+      <Category />
       <Subscribe />
     </div>
   );
