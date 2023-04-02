@@ -22,7 +22,7 @@ const Category = () => {
               alt="Background image"
               width={350}
               height={150}
-              style={{ objectFit: "covers" }}
+              style={{ objectFit: "cover" }}
             />
 
             <div className={Style.category_box_title}>
