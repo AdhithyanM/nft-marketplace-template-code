@@ -24,7 +24,8 @@ const Video = () => {
               alt="Video image"
               width={1920}
               height={1080}
-              style={{ objectFit: "cover" }}
+              // style={{ objectFit: "cover" }}
+              objectFit="cover"
               className={Style.Video_box_frame_left_img}
             />
           </div>

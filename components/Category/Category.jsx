@@ -30,7 +30,8 @@ const Category = () => {
               alt="Background image"
               width={350}
               height={150}
-              style={{ objectFit: "cover" }}
+              // style={{ objectFit: "cover" }}
+              objectFit="cover"
             />
 
             <div className={Style.category_box_title}>
