@@ -32,7 +32,7 @@ const SideBar = ({ setOpenSideMenu }) => {
     },
     {
       name: "Search",
-      link: "search",
+      link: "searchPage",
     },
     {
       name: "Author Profile",
