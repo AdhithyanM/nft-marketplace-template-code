@@ -43,6 +43,7 @@ import musiceWave from "./musicwave.png";
 import update from "./update.png";
 import earn from "./eran.png";
 import NFTVideo from "./nftvideo.png";
+import upload from "./upload.png";
 
 const images = Object.freeze({
   collection,
@@ -90,6 +91,7 @@ const images = Object.freeze({
   zgcmq,
   earn,
   NFTVideo,
+  upload,
 });
 
 export default images;

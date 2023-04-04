@@ -84,7 +84,7 @@ const Form = () => {
             </div>
             {/* Twitter */}
             <div className={Style.Form_box_input}>
-              <label htmlFor="twiiter">Twitter</label>
+              <label htmlFor="twitter">Twitter</label>
               <div className={Style.Form_box_input_box}>
                 <div className={Style.Form_box_input_box_icon}>
                   <TiSocialTwitter />
