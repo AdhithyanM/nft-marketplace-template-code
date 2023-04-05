@@ -34,6 +34,7 @@ import vimeo from "./vimeo.svg";
 import vector from "./VectorHIW.svg";
 import zgcmq from "./zgcmq.svg";
 import hero from "./hero.png";
+import hero2 from "./hero2.png";
 import nft_1 from "./nft_1.png";
 import getAble from "./getable.png";
 import nft_image_1 from "./nft-image-1.png";
@@ -48,6 +49,10 @@ import provider1 from "./provider-1.png";
 import provider2 from "./provider-2.png";
 import provider3 from "./provider-3.png";
 import provider4 from "./provider-4.png";
+import founder1 from "./founder1.jpg";
+import founder2 from "./founder2.jpg";
+import founder3 from "./founder3.jpg";
+import founder4 from "./founder4.jpg";
 
 const images = Object.freeze({
   collection,
@@ -59,6 +64,7 @@ const images = Object.freeze({
   getAble,
   nft_1,
   hero,
+  hero2,
   creatorbackground1,
   creatorbackground2,
   creatorbackground3,
@@ -100,6 +106,10 @@ const images = Object.freeze({
   provider2,
   provider3,
   provider4,
+  founder1,
+  founder2,
+  founder3,
+  founder4,
 });
 
 export default images;
