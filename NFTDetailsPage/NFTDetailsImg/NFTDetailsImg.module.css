@@ -48,7 +48,7 @@
   justify-content: space-between;
   line-height: 0;
   background-color: var(--icons-bg-color);
-  color: var(--icons-color);
+  color: var(--bg-shadow-dark-color);
   border-radius: 0.5rem;
   padding-inline: 1rem;
   cursor: pointer;
